@@ -2482,6 +2482,8 @@ AC_CONFIG_FILES([
    auxprogs/Makefile
    mpi/Makefile
    coregrind/Makefile
+   freya/Makefile
+   freya/tests/Makefile
    memcheck/Makefile
    memcheck/tests/Makefile
    memcheck/tests/amd64/Makefile
